@@ -1,7 +1,9 @@
+#!/usr/bin/python3
 """ 
-Class doc: This class creates an empty class Square that defines a square.
+Module doc: This module creates an empty class Square that defines a square.
 """
 class Square:
+    """
+    Class doc: This is an empty class called Square
+    """
     pass
-s = Square()
-print(s)
