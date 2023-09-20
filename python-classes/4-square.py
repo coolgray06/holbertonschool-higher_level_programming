@@ -16,7 +16,7 @@ class Square:
         """
         Initializes a new square.
         """
-        self.__size = size
+        self.size = size
 
     def size(self):
         """
