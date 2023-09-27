@@ -1,0 +1,20 @@
+Class that inherits from list:
+
+Import module:
+
+>>> MyList = __import__('1-my_list').MyList
+
+Prints sorted list
+'print_sorted()'
+
+Empty list:
+
+>>>  empty_list = MyList([])
+
+Multiple elements:
+
+>>> list_duplicates = MyList([3, 7, 7, 1, 5])
+
+Negative integers:
+
+>>> list_negative = MyList([-3, -7, -6, -9, -8])
